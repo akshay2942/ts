@@ -61,7 +61,7 @@ console.log(infoP);
 let detail = {
     fName: 'akshay',
     lName: 'kshirsagar',
-    age: 29,
+    age: 52,
     skill: ['javascript', 'cypress']
 };
 console.log(detail.skill);

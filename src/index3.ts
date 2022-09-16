@@ -93,7 +93,7 @@ type person ={
 let detail:person={
 fName:'akshay',
 lName:'kshirsagar',
-age:29,
+age:52,
 skill:['javascript','cypress']
 }
 
